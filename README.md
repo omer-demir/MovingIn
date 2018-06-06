@@ -17,6 +17,10 @@ https://www.made.com/nl/jonny-2-seater-sofa-revival-olive-5
 ### Kahve Masasi
 
 https://www.wehkamp.nl/wonen-slapen/tafels/salontafels/dutchbone-class-salontafel/C28_8K9_HB5_645545/
+https://www.gewoonstijl.nl/kubikoff-libra-koffietafel-glas-houten-onderstel
+https://www.gewoonstijl.nl/kubikoff-diamond-salontafel-diverse-uitvoeringen
+https://www.home24.nl/product/salontafel-woodson-ii-massief-acaciahout-ijzer-bruin-acaciahout3
+https://www.made.com/nl/aula-salontafelset-koper-en-groen-glas
 
 ### Puff
 
@@ -45,12 +49,18 @@ https://www.made.com/nl/frances-staande-driepootlamp-messing
 ### Masa
 
 https://www.made.com/nl/tandil-uitschuifbare-eettafel-grijs-glas
+https://www.home24.nl/product/eettafel-vaasa-glas-metaal-eikenhout
 
 ### Sandalye
 
 https://www.ikea.com/nl/nl/catalog/products/00360002/
+https://www.gewoonstijl.nl/essence-metal-stoel-zwart-onderstel-diverse-kleuren
+https://www.home24.nl/product/eettafel-anadyr-glas-metaal-zwart-essenhout
+https://www.marktplaats.nl/a/huis-en-inrichting/bureaus-en-bureaustoelen/a1186250337-venditaxl-eetkamerstoelen-kunstleer-massief-hout-zwart-4-st.html?c=11d6f6927294b6b85441c9c9a96031c&previousPage=l1_page
 
 ### Aydinlatma
+
+https://www.gewoonstijl.nl/vita-asteria-hanglamp-antraciet
 
 ## Calisma Odasi
 
@@ -93,8 +103,6 @@ https://www.made.com/nl/marvel-bureaustoel-messing
 ## Perde
 
 ### Salon
-
-https://www.made.com/nl/solar-ringgordijnen-168-x-182-cm-teal
 
 ### Yatak Odasi Kucuk
 
