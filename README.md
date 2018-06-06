@@ -10,6 +10,7 @@
 Link|Fiyat|Begeni|Renk
 ----|-----|------|----
 [Wehkamp](https://www.wehkamp.nl/wonen-slapen/banken/3-zitsbanken/whkmps-own-3-zitsbank-torino-velours/C28_8H1_HB2_682384/)|700| 4| Yesil
+[Made](https://www.made.com/nl/jules-3-zitsbank-lichtgrijs)|1400|-|Gri
 
 #### 2lu Koltuk
 
