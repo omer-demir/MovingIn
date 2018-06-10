@@ -36,6 +36,8 @@ Link|Fiyat|Begeni
 [GS](https://www.gewoonstijl.nl/kubikoff-diamond-salontafel-diverse-uitvoeringen)|207|3
 [Home23](https://www.home24.nl/product/salontafel-woodson-ii-massief-acaciahout-ijzer-bruin-acaciahout)|280|4
 [Made](https://www.made.com/nl/aula-salontafelset-koper-en-groen-glas)|500|3
+[Home24](https://www.home24.nl/product/salontafel-anadyr-goudkleurig-bruin-essenhout)|200|-
+[Home24](https://www.home24.nl/product/salontafel-katori-ii-glas-metaal-marmeren-look-imitatie-zwart-marmer-zwart)|150|-
 
 ### Puff
 
