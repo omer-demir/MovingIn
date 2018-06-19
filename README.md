@@ -89,6 +89,8 @@ Link|Price|Like
 
 ### Chairs
 
+**Already bought**
+
 Link|Price|Like
 ----|-----|------
 [Ikea](https://www.ikea.com/nl/nl/catalog/products/00360002/)|70|3
