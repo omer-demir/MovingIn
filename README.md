@@ -5,7 +5,9 @@
 
 ### Sofas
 
-#### 3lu Sofa (On List)
+#### 3lu Sofa
+
+**Already Bought**
 
 Link|Price|Like|Renk
 ----|-----|------|----
@@ -13,6 +15,8 @@ Link|Price|Like|Renk
 [Made](https://www.made.com/nl/jules-3-zitsbank-lichtgrijs)|1400|-|Gri
 
 #### 2lu Sofa (On List)
+
+**Already Bought**
 
 Link|Price|Like
 ----|-----|------
@@ -29,6 +33,8 @@ Link|Price|Like|Renk
 [Wehkamp](https://www.wehkamp.nl/wonen-slapen/stoelen/fauteuils/bepurehome-fauteuil-vogue-velours/C28_8KS_HB3_16028572/?PrI=31&PI=0&Nrpp=96&View=Grid&NavState=%2F_%2FN-1xgs&Ns=M)|240|-|Hardal
 
 ### Coffee Table (On List)
+
+**Already Bought**
 
 Link|Price|Like
 ----|-----|------
@@ -49,7 +55,9 @@ Link|Price|Like
 [Home24](https://www.home24.nl/product/poef-khaderi-wol-beige-zwart-42a3e)|80|-
 [Made](https://www.made.com/nl/lux-vloerkussen-teal-fluweel)|89|-
 
-### Corner Table (On List)
+### Corner Table
+
+**Already Bought**
 
 Link|Price|Like
 ----|-----|------
@@ -104,6 +112,8 @@ Link|Price|Like
 
 ### Lights
 
+**Already Bought**
+
 Link|Price|Like
 ----|-----|------
 [GS](https://www.gewoonstijl.nl/vita-asteria-hanglamp-antraciet)|200|-
@@ -150,12 +160,16 @@ Link|Price|Like
 
 ### Lights
 
+**Already Bought**
+
 Link|Price|Like
 ----|-----|------
 
 ## Sleeping Room
 
-### Bed (On List)
+### Bed
+
+**Already Bought**
 
 Link|Price|Like
 ----|-----|------
@@ -168,7 +182,9 @@ Link|Price|Like
 ----|-----|------
 [Ikea](https://www.ikea.com/nl/nl/catalog/products/50272183/)|200|-
 
-### Wardrobe (On List)
+### Wardrobe
+
+**Already Bought**
 
 Link|Price|Like
 ----|-----|------
@@ -177,13 +193,17 @@ Link|Price|Like
 [Home24](https://www.home24.nl/product/draaideurkast-rasant-extra-alpinewit-sonoma-eikenhoutkleurig-127cm-3-deurs-2-spiegeldeuren)|220|-
 
 
-### Drawer (On List)
+### Drawer
+
+**Already Bought**
 
 Link|Price|Like
 ----|-----|------
 [Home24](https://www.home24.nl/product/nachtkastje-utrecht-i-alpinewit-1-nachtkastje)|65|-
 
 ### Light
+
+**Already Bought**
 
 Link|Price|Like
 ----|-----|------
@@ -197,6 +217,8 @@ Link|Price|Like
 
 ### Light
 
+**Already Bought**
+
 Link|Price|Like
 ----|-----|------
 
@@ -208,6 +230,8 @@ Link|Price|Like
 ----|-----|------
 
 ### Light
+
+**Already Bought**
 
 Link|Price|Like
 ----|-----|------
