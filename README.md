@@ -5,14 +5,14 @@
 
 ### Sofas
 
-#### 3lu Sofa
+#### 3lu Sofa (On List)
 
 Link|Price|Like|Renk
 ----|-----|------|----
 [Wehkamp](https://www.wehkamp.nl/wonen-slapen/banken/3-zitsbanken/whkmps-own-3-zitsbank-torino-velours/C28_8H1_HB2_682384/)|700| 4| Yesil
 [Made](https://www.made.com/nl/jules-3-zitsbank-lichtgrijs)|1400|-|Gri
 
-#### 2lu Sofa
+#### 2lu Sofa (On List)
 
 Link|Price|Like
 ----|-----|------
@@ -27,7 +27,8 @@ Link|Price|Like|Renk
 [Made](https://www.made.com/nl/jonny-2-seater-sofa-revival-olive-5)|400|3.5|Yesil
 [Wehkamp](https://www.wehkamp.nl/wonen-slapen/stoelen/fauteuils/whkmps-own-fauteuil-rocco-velours/C28_8KS_HB3_310276/?PrI=1&PI=0&Nrpp=96&View=Grid&NavState=%2F_%2FN-1xgs&Ns=M)|200|-|Hardal
 [Wehkamp](https://www.wehkamp.nl/wonen-slapen/stoelen/fauteuils/bepurehome-fauteuil-vogue-velours/C28_8KS_HB3_16028572/?PrI=31&PI=0&Nrpp=96&View=Grid&NavState=%2F_%2FN-1xgs&Ns=M)|240|-|Hardal
-### Coffee Table
+
+### Coffee Table (On List)
 
 Link|Price|Like
 ----|-----|------
@@ -48,7 +49,7 @@ Link|Price|Like
 [Home24](https://www.home24.nl/product/poef-khaderi-wol-beige-zwart-42a3e)|80|-
 [Made](https://www.made.com/nl/lux-vloerkussen-teal-fluweel)|89|-
 
-### Corner Table
+### Corner Table (On List)
 
 Link|Price|Like
 ----|-----|------
@@ -154,7 +155,7 @@ Link|Price|Like
 
 ## Sleeping Room
 
-### Bed
+### Bed (On List)
 
 Link|Price|Like
 ----|-----|------
@@ -167,7 +168,7 @@ Link|Price|Like
 ----|-----|------
 [Ikea](https://www.ikea.com/nl/nl/catalog/products/50272183/)|200|-
 
-### Wardrobe
+### Wardrobe (On List)
 
 Link|Price|Like
 ----|-----|------
@@ -176,7 +177,7 @@ Link|Price|Like
 [Home24](https://www.home24.nl/product/draaideurkast-rasant-extra-alpinewit-sonoma-eikenhoutkleurig-127cm-3-deurs-2-spiegeldeuren)|220|-
 
 
-### Drawer
+### Drawer (On List)
 
 Link|Price|Like
 ----|-----|------
