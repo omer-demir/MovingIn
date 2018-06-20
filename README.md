@@ -67,6 +67,8 @@ Link|Price|Like
 
 ### Lights
 
+**Already Bought**
+
 Link|Price|Like
 ----|-----|------
 [Made](https://www.made.com/nl/frances-staande-driepootlamp-messing)|120|4
@@ -80,6 +82,8 @@ Link|Price|Like
 ## Dining
 
 ### Table
+
+**Already Bought**
 
 Link|Price|Like
 ----|-----|------
@@ -112,6 +116,8 @@ Link|Price|Like
 [Ikea](https://www.ikea.com/nl/nl/catalog/products/90091760/)|15|-
 
 ### Kitchenware set
+
+**Already Bought**
 
 Link|Price|Like
 ----|-----|------
